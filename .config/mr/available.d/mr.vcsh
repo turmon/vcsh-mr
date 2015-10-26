@@ -1,2 +1,3 @@
+# Derived from Template.vcsh for mr
 [$HOME/.config/vcsh/repo.d/mr.git]
-checkout = vcsh clone https://github.com/turmon/vcsh-mr.git mr
+checkout = vcsh clone git@github.com:turmon/vcsh-mr.git mr

@@ -1,0 +1,4 @@
+## (Template file)
+# Derived from Template.vcsh for REPOS
+[$HOME/.config/vcsh/repo.d/REPOS.git]
+checkout = vcsh clone git@github.com:turmon/vcsh-REPOS.git REPOS
