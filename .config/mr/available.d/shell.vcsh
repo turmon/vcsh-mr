@@ -1,0 +1,3 @@
+# Derived from Template.vcsh for shell
+[$HOME/.config/vcsh/repo.d/shell.git]
+checkout = vcsh clone git@github.com:turmon/vcsh-shell.git shell
