@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/mr.git]
+checkout = vcsh clone https://github.com/turmon/vcsh-mr.git mr

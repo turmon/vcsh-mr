@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/vi.git]
+checkout = vcsh clone https://github.com/turmon/vcsh-vi.git vi
