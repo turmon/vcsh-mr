@@ -1,0 +1,3 @@
+# Derived from Template.vcsh for shutil
+[$HOME/.config/vcsh/repo.d/shutil.git]
+checkout = vcsh clone git@github.com:turmon/vcsh-shutil.git shutil
